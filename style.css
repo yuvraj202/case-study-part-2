@@ -1,0 +1,124 @@
+body {
+    background-color: pink;
+}
+
+.testimage {
+    font-size: 30px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.i1 {
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.r {
+    font-size: 20px;
+    color: white;
+    margin-left: 50%;
+    margin-top: 10px;
+}
+
+.d {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 40%;
+
+}
+
+.g {
+    color: darkviolet;
+    font-weight: bold;
+
+}
+
+.gout {
+    font-size: 20px;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.mout {
+    font-size: 20px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+.rg {
+    color: red;
+    font-weight: bold;
+}
+
+.rm {
+    color: red;
+    font-weight: bold;
+}
+
+hr {
+    margin-right: 400px;
+    margin-left: -300px;
+}
+
+.i2 {
+
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.i3 {
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.i4 {
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.i5 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.copy_right_footer
+{
+    background-color:deepskyblue;
+    color: white;
+    text-align:center;
+    width: 50%;
+    bottom: 5px;
+    position: fixed;
+    line-height: 2;
+    font-size: 25px;
+    margin-left: 430px;
+    border-radius: 30px;  
+    font-family:serif;
+ 
+}
+
+.maindiv
+{
+    width:100%;
+     background-color: deepskyblue;
+}
